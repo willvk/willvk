@@ -13,7 +13,7 @@
 
 ## 📫 How to reach me; 
   - 🔗 linkedIn: https://www.linkedin.com/in/williamvk/
-  - 🕸️ website under dev: https://williamvk.com
+  - 🕸️ website under dev: https://www.williamvk.com
   - 🐦 tweet me @willyvank: https://twitter.com/willyvank
 
 <!---
